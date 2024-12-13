@@ -1,0 +1,5 @@
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/publish/MyApp
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/publish/MyApp.dll
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/publish/MyApp.deps.json
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/publish/MyApp.runtimeconfig.json
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/publish/MyApp.pdb

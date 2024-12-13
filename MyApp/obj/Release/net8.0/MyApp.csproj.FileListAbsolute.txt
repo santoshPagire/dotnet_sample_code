@@ -1,0 +1,14 @@
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/MyApp
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/MyApp.deps.json
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/MyApp.runtimeconfig.json
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/MyApp.dll
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/bin/Release/net8.0/MyApp.pdb
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/MyApp.AssemblyInfoInputs.cache
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/MyApp.AssemblyInfo.cs
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/MyApp.dll
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/refint/MyApp.dll
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/MyApp.pdb
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/MyApp.genruntimeconfig.cache
+/home/einfochips/Desktop/honeywell/dotnet/MyApp/obj/Release/net8.0/ref/MyApp.dll
